@@ -1,0 +1,5 @@
+.settings/*
+library/Zend
+public/*
+tests/*
+.buildpath
