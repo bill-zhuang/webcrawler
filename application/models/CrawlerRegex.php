@@ -32,6 +32,9 @@ class Application_Model_CrawlerRegex
     const YHD_IMG_60_REGEX = '//';
     
     const FILENAME_REGEX = '!([^/]+)$!';
-
+    
+    const TIEBA_POST_ID_PICTURE_ORDER = '/<div class=\"aep_wrapper\" id=\"pic_item_(\d+)\" tid=\"\d+\">/';
+    const TIEBA_POST_ID_POST_ORDER = '/<ul class=\"threadlist_media j_threadlist_media\" id=\"fm(\d+)\"/';
+    const TIEBA_PICTURE_TID = '/\{\"original\":\{\"id\":\"(\w+)\"/';
 }
 

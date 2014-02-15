@@ -20,6 +20,7 @@
         <modelFile modelName="CrawlerRegex"/>
         <modelFile modelName="Download"/>
         <modelFile modelName="File"/>
+        <modelFile modelName="TiebaImagesCrawler"/>
       </modelsDirectory>
       <modulesDirectory enabled="false"/>
       <servicesDirectory enabled="false"/>
